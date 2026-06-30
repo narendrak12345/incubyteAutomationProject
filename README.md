@@ -91,3 +91,5 @@ npm run bdd
 * Randomized test data
 * Excel test cases
 * Proof of execution (screenshot/screen recording)
+* <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/00d0f8d7-a806-4cc9-8680-9a010423c301" />
+
